@@ -7,7 +7,7 @@
  * Author: Berkman Center for Internet & Society
  * Author URI: https://cyber.law.harvard.edu
  * License: GPL3
- * Text Domain: amberlink
+ * Text Domain: lang-amberlink
  */
 
 define("AMBER_ACTION_NONE",0);
